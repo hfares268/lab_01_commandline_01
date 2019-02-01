@@ -107,8 +107,7 @@ $ ls /Vol<TAB><ENTER>
 What is the result of pressing tab?
 ----------
 
-
-
+Macintosh HD		firmwaresyncd.sr7CEc
 ==========
 8.  Type:
 
@@ -122,19 +121,19 @@ Copy and paste the output below.
 ==========
 9.  What key do I press to go to the previous command?
 ----------
-
+<UP>
 
 
 ==========
 10.  Name two flags that we used in this exercise.
 ----------
-
+-a -l
 
 
 ==========
 11.  What key do I use to attempt to autocomplete a command or a file name?
 ----------
-
+<TAB>
 
 
 ==========
@@ -156,7 +155,7 @@ $ foo<ENTER>
 
 Copy and paste the output below.
 ----------
-
+command not found
 
 
 ==========
@@ -176,3 +175,4 @@ $ ls -a Desktop
 
 What is the command, flag, argument, and prompt?
 ----------
+ls, -a, desktop, $
