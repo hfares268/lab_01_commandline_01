@@ -115,7 +115,7 @@ $ ls doesnotexist
 
 Copy and paste the output below.
 ----------
-
+No such file or directory
 
 
 ==========
@@ -145,7 +145,7 @@ ls
 ==========
 13.  Name one argument that we passed to the command.
 ----------
-
+pizza toppings
 
 
 ==========
@@ -165,7 +165,7 @@ command not found
 
 Copy and paste the output below.
 ----------
-
+command not found
 
 
 ==========
