@@ -31,7 +31,7 @@ If it doesn't start at #1 again, or ask for help before moving on!
 
 Copy and paste the output of pwd below.
 ----------
-
+/Users/Hfares168
 
 
 ==========
@@ -42,6 +42,12 @@ $ ls
 
 Copy and paste the output below.
 ----------
+Applications	Downloads	Movies		Public
+Desktop		GameAnalytics	Music		animals
+Documents	Library		Pictures
+Alis-MacBook-Air:~ Hfares168$ 
+
+
 
 
 
@@ -53,6 +59,11 @@ $ ls
 
 Copy and paste the output below.
 ----------
+Applications	Downloads	Movies		Public
+Desktop		GameAnalytics	Music		animals
+Documents	Library		Pictures	food
+Alis-MacBook-Air:~ Hfares168$ 
+
 
 
 
@@ -64,7 +75,9 @@ $ ls
 
 Copy and paste the output below.
 ----------
-
+Applications	Downloads	Movies		Public		food
+Desktop		GameAnalytics	Music		animals
+Documents	Library		Pictures	foo
 
 
 ==========
@@ -75,7 +88,7 @@ $ pwd
 
 Copy and paste the output below.
 ----------
-
+/Users/Hfares168/foo/bar/baz/qux
 
 
 ==========
@@ -86,7 +99,7 @@ $ pwd
 
 Copy and paste the output below.
 ----------
-
+/Users/Hfares168/foo/bar
 
 
 ==========
@@ -97,7 +110,7 @@ $ pwd
 
 Copy and paste the output below.
 ----------
-
+/Users/Hfares168
 
  
 ==========
@@ -108,7 +121,7 @@ $ pwd
 
 Copy and paste the output below.
 ----------
-
+/
 
 
 ==========
@@ -120,7 +133,8 @@ $ ls -l
 
 Copy and paste the first two lines from the output into the space below.
 ----------
-
+drwxrwxr-x+ 48 root  admin  1536 Feb  4 22:53 Applications
+drwxr-xr-x+ 63 root  wheel  2016 Feb  4 22:42 Library
 
 
 ==========
@@ -131,7 +145,7 @@ $ pwd
 
 Copy and paste the output into the space below.
 ----------
-
+/Users/Hfares168
 
 
 ==========
@@ -142,7 +156,7 @@ $ pwd
 
 Copy and paste the output into the space below.
 ----------
-
+/volumes
 
 
 ==========
@@ -153,7 +167,7 @@ $ pwd
 
 Copy and paste the output into the space below.
 ----------
-
+ No such file or directory
 
 
 ==========
@@ -164,7 +178,7 @@ $ pwd
 
 Copy and paste the output into the space below.
 ----------
-
+No such file or directory
 
 
 ==========
@@ -174,7 +188,7 @@ $ hostname
 
 Copy and paste the output into the space below.
 ----------
-
+Alis-MacBook-Air.local
 
 
 ==========
@@ -252,37 +266,37 @@ What command did you use?
 ==========
 24. What command is used to delete empty directories?
 ----------
-
+rmdir
 
 
 ==========
 25. What command is used to print out your current working directory?
 ----------
-
+pwd
 
 
 ==========
 26. What flag do I pass to ls to print out all files?
 ----------
-
+ls
 
 
 ==========
 27. What's the shortcut for home directory?
 ----------
-
+~
 
 
 ==========
 28. What's a pathname?
 ----------
-
+Pathname is the general name for a file. It specifies a unique location in the file.
 
 
 ==========
 29. What's a directory?
 ----------
-
+A cataloging structure on a file system
 
 
 ==========
